@@ -343,4 +343,4 @@ The CI workflow (`.github/workflows/ci.yml`) runs on every push and pull request
 
 ---
 
-*EquityXperts · For research and educational purposes only. Not investment advice.*
+*For research and educational purposes only. Not investment advice.*
