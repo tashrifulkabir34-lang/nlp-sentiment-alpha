@@ -1,6 +1,6 @@
 # 📰 NLP Sentiment Alpha Signal
 
-> **EquityXperts Quant Finance Series · Project 6 of N**  
+ 
 > Build a news sentiment factor from financial headlines, validate its predictive power with rigorous walk-forward out-of-sample testing, and integrate it into a cross-sectional equity ranking model.
 
 [![CI](https://github.com/tashrifulkabir34-lang/nlp-sentiment-alpha/actions/workflows/ci.yml/badge.svg)](https://github.com/tashrifulkabir34-lang/nlp-sentiment-alpha/actions)
